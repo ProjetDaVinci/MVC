@@ -1,0 +1,61 @@
+.navbar-brand{
+    margin-left: 5px;
+}
+.ass{
+    margin-top: 3%;
+    text-align: center;
+    margin: auto;
+    width: 35%;
+}
+.buttonos{
+    background-color:rgb(141, 4, 4);
+    display: flex;
+    justify-content: space-evenly;
+
+}
+button{
+    width: 350px;
+}
+
+.navbar{
+    font-size: 24px;
+}
+.navbar-brand{
+    font-size: 40px;
+}
+
+h1,h2{
+    text-align: center;
+    font-size: 60px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    color: aliceblue;
+    background-color: rgba(29, 27, 31, 0.411);
+}
+.p1{
+    text-align: center;
+    font-size: 60px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    color: aliceblue;
+    font-weight: bold;
+    margin-bottom: 2%;
+}
+h5{
+    background-color: rgba(132, 61, 199, 0.411);
+}
+.container{
+    font-weight: bold;
+    max-width: 20%;
+
+    font-size: 24px;
+    text-align: center;
+
+    margin-bottom: 4%;
+}
+
+table{
+    color: aliceblue;
+}
+
+

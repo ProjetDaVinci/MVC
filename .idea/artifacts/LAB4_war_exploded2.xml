@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="LAB4:war exploded2">
+    <output-path>$PROJECT_DIR$/out/artifacts/LAB4_war_exploded2</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="LAB4" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.8.6" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="LAB4/web/Web" />
+    </root>
+  </artifact>
+</component>
